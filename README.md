@@ -1,18 +1,5 @@
 # Prakhar’s LeetCode Tracker
 
-<div align="center">
-
-  <!-- Replace Netlify badge link + site badge id if you deploy on Netlify -->
-  <a href="https://app.netlify.com/sites/{YOUR_NETLIFY_SITE_NAME}/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/{YOUR_NETLIFY_BADGE_ID}/deploy-status" alt="Netlify Status" />
-  </a>
-
-  <!-- Replace with your repo path (after you create your repo) -->
-  <a href="https://github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPO_NAME}/actions/workflows/update.yml">
-    <img src="https://github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPO_NAME}/actions/workflows/update.yml/badge.svg" alt="Daily Update" />
-  </a>
-
-</div>
 
 A lightweight dashboard to **track daily LeetCode progress** and visualize trends over time.  
 Add your username (and friends’ usernames) and get a clean graph + auto-updating records via GitHub Actions.
