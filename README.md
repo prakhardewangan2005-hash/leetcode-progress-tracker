@@ -4,8 +4,7 @@
 A lightweight dashboard to **track daily LeetCode progress** and visualize trends over time.  
 Add your username (and friends’ usernames) and get a clean graph + auto-updating records via GitHub Actions.
 
-**Live Demo:** https://{YOUR_DEPLOY_URL}.netlify.app  
-*(If you haven’t deployed yet, keep this blank or remove it.)*
+
 
 ---
 
