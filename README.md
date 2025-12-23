@@ -17,10 +17,6 @@ Add your username (and friends’ usernames) and get a clean graph + auto-updati
 
 ---
 
-## Quick Start
-
-### 1) Add usernames
-Edit:
 
 - `data/watchlist.json` → put your LeetCode usernames
 
