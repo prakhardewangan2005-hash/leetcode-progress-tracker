@@ -18,9 +18,6 @@ Add your username (and friends’ usernames) and get a clean graph + auto-updati
 ---
 
 
-- `data/watchlist.json` → put your LeetCode usernames
 
-Example:
-```json
 ["prakhardewangan2005"]
 
