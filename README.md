@@ -1,6 +1,5 @@
 # Prakhar's Leetcode Tracker
 
-![Github Socialify](https://socialify.git.ci/adi-g15/leetcode-progress-tracker/image?description=1&descriptionEditable=Fetch%20and%20analyse%20progress%20from%20leetcode%20profile&language=1&name=1&owner=1&theme=Dark)
 
 <div align="center">
   <a href="https://app.netlify.com/sites/leetcode-progress/deploys"><img src="https://api.netlify.com/api/v1/badges/40a29736-e255-4ecb-ac63-58d2938275e0/deploy-status" alt="Netlify Status"></a>
