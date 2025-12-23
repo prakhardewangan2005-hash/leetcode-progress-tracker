@@ -1,4 +1,4 @@
-# Leetcode Progress Tracker
+# Prakhar's Leetcode Tracker
 
 ![Github Socialify](https://socialify.git.ci/adi-g15/leetcode-progress-tracker/image?description=1&descriptionEditable=Fetch%20and%20analyse%20progress%20from%20leetcode%20profile&language=1&name=1&owner=1&theme=Dark)
 
